@@ -1,0 +1,802 @@
+{
+  "c:\\Users\\Admin\\manfestlwc\\force-app": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app",
+    "isDirectory": true,
+    "modifiedTime": 1644137645047,
+    "changeTime": 1644137645047,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "n",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main",
+    "isDirectory": true,
+    "modifiedTime": 1644137645047,
+    "changeTime": 1644137645047,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default",
+    "isDirectory": true,
+    "modifiedTime": 1644137645143,
+    "changeTime": 1644137645143,
+    "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\applications": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\applications",
+    "isDirectory": true,
+    "modifiedTime": 1644137645047,
+    "changeTime": 1644137645047,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura",
+    "isDirectory": true,
+    "modifiedTime": 1644138509592,
+    "changeTime": 1644138509592,
+    "contentHash": "5cfbb2f7876bc21f3d5ef305d5e6f2a77cf9db8c",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\ContactComp": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\ContactComp",
+    "isDirectory": true,
+    "modifiedTime": 1644138509584,
+    "changeTime": 1644138509584,
+    "contentHash": "0b3e01050a78ad790c18fe3ff206e3aacb4a549f",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.cmp": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.cmp",
+    "size": 1362,
+    "modifiedTime": 1644138509584,
+    "changeTime": 1644138509584,
+    "contentHash": "a104a643a56ef6729854d82641062bd60bcee3ef",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.cmp-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\ContactComp\\ContactComp.cmp-meta.xml",
+    "size": 228,
+    "modifiedTime": 1644138509584,
+    "changeTime": 1644138509584,
+    "contentHash": "c0c99fc453841074e9256ec71f0c4cc0d9836cd2",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\ContactComp\\ContactCompController.js": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\ContactComp\\ContactCompController.js",
+    "size": 2293,
+    "modifiedTime": 1644138509584,
+    "changeTime": 1644138509584,
+    "contentHash": "c8252e9a88a019d09e172dd9dad3079d3990dee2",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\ContactCompApp": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\ContactCompApp",
+    "isDirectory": true,
+    "modifiedTime": 1644138509592,
+    "changeTime": 1644138509592,
+    "contentHash": "eadfc1032ac7d6403bf87de3a4a43c8b4625e871",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\ContactCompApp\\ContactCompApp.app": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\ContactCompApp\\ContactCompApp.app",
+    "size": 72,
+    "modifiedTime": 1644138509592,
+    "changeTime": 1644138509592,
+    "contentHash": "14d6129916a22235713c37a794e6438d46ca2d28",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\ContactCompApp\\ContactCompApp.app-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\ContactCompApp\\ContactCompApp.app-meta.xml",
+    "size": 228,
+    "modifiedTime": 1644138509592,
+    "changeTime": 1644138509592,
+    "contentHash": "c0c99fc453841074e9256ec71f0c4cc0d9836cd2",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\OpportunityContact": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\OpportunityContact",
+    "isDirectory": true,
+    "modifiedTime": 1644138509576,
+    "changeTime": 1644138509576,
+    "contentHash": "04e1f3be4345a62c37c22253e0c0e5487298f6cc",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\OpportunityContact\\OpportunityContact.cmp": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\OpportunityContact\\OpportunityContact.cmp",
+    "size": 523,
+    "modifiedTime": 1644138509576,
+    "changeTime": 1644138509576,
+    "contentHash": "a32a9b519eeb7d73cd2e349d5e921f67611d0840",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\OpportunityContact\\OpportunityContact.cmp-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\OpportunityContact\\OpportunityContact.cmp-meta.xml",
+    "size": 228,
+    "modifiedTime": 1644138509576,
+    "changeTime": 1644138509576,
+    "contentHash": "c0c99fc453841074e9256ec71f0c4cc0d9836cd2",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\OpportunityContact\\OpportunityContactController.js": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\OpportunityContact\\OpportunityContactController.js",
+    "size": 2388,
+    "modifiedTime": 1644138509576,
+    "changeTime": 1644138509576,
+    "contentHash": "e13c3e075dc80089f70b3572eec5d9993f7148eb",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\OpportunityContacta": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\OpportunityContacta",
+    "isDirectory": true,
+    "modifiedTime": 1644138509563,
+    "changeTime": 1644138509563,
+    "contentHash": "7fb8bb66c7ea28f87600bbdb99a1d2ec87385ab1",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\OpportunityContacta\\OpportunityContacta.app": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\OpportunityContacta\\OpportunityContacta.app",
+    "size": 88,
+    "modifiedTime": 1644138509563,
+    "changeTime": 1644138509563,
+    "contentHash": "3204a66f1da2a59b9b4252bd44debcb43905c89e",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\OpportunityContacta\\OpportunityContacta.app-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\OpportunityContacta\\OpportunityContacta.app-meta.xml",
+    "size": 228,
+    "modifiedTime": 1644138509563,
+    "changeTime": 1644138509563,
+    "contentHash": "c0c99fc453841074e9256ec71f0c4cc0d9836cd2",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\child": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\child",
+    "isDirectory": true,
+    "modifiedTime": 1644138509555,
+    "changeTime": 1644138509555,
+    "contentHash": "c225694bcf9a473d4ce17c1e4627da783b785230",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\child\\child.cmp": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\child\\child.cmp",
+    "size": 179,
+    "modifiedTime": 1644138509555,
+    "changeTime": 1644138509555,
+    "contentHash": "eb52c5f67b773ea2dad2c5162c489e045aa31f16",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\child\\child.cmp-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\child\\child.cmp-meta.xml",
+    "size": 228,
+    "modifiedTime": 1644138509555,
+    "changeTime": 1644138509555,
+    "contentHash": "c0c99fc453841074e9256ec71f0c4cc0d9836cd2",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\child\\childController.js": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\child\\childController.js",
+    "size": 213,
+    "modifiedTime": 1644138509555,
+    "changeTime": 1644138509555,
+    "contentHash": "d3c9626fae58fced17e8999502cf41acfbf74b74",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\childevent": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\childevent",
+    "isDirectory": true,
+    "modifiedTime": 1644138509513,
+    "changeTime": 1644138509513,
+    "contentHash": "d5fabb5464efb5e37a2d3cda9f4a6bd693834f52",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\childevent\\childevent.evt": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\childevent\\childevent.evt",
+    "size": 138,
+    "modifiedTime": 1644138509545,
+    "changeTime": 1644138509545,
+    "contentHash": "58d3e11eb4f0ff84669ba9ad85f59b30a7b95bd0",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\childevent\\childevent.evt-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\childevent\\childevent.evt-meta.xml",
+    "size": 228,
+    "modifiedTime": 1644138509545,
+    "changeTime": 1644138509545,
+    "contentHash": "c0c99fc453841074e9256ec71f0c4cc0d9836cd2",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\eventApp": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\eventApp",
+    "isDirectory": true,
+    "modifiedTime": 1644138509576,
+    "changeTime": 1644138509576,
+    "contentHash": "4549d140ac99a41523fe81dd837b50bdf2fc63ad",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\eventApp\\eventApp.app": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\eventApp\\eventApp.app",
+    "size": 62,
+    "modifiedTime": 1644138509584,
+    "changeTime": 1644138509584,
+    "contentHash": "9c9a1772ea2eeb74c500d7964e31ad2bf38bf5db",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\eventApp\\eventApp.app-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\eventApp\\eventApp.app-meta.xml",
+    "size": 228,
+    "modifiedTime": 1644138509584,
+    "changeTime": 1644138509584,
+    "contentHash": "c0c99fc453841074e9256ec71f0c4cc0d9836cd2",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\parent": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\parent",
+    "isDirectory": true,
+    "modifiedTime": 1644138509571,
+    "changeTime": 1644138509571,
+    "contentHash": "e8c5eeb82b5e0f8680c9c7d9918027157a4cc800",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\parent\\parent.cmp": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\parent\\parent.cmp",
+    "size": 150,
+    "modifiedTime": 1644138509571,
+    "changeTime": 1644138509571,
+    "contentHash": "dcfe8c15a2829d15634d9551fa470de041fefd2c",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\parent\\parent.cmp-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\parent\\parent.cmp-meta.xml",
+    "size": 228,
+    "modifiedTime": 1644138509571,
+    "changeTime": 1644138509571,
+    "contentHash": "c0c99fc453841074e9256ec71f0c4cc0d9836cd2",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\parent\\parentController.js": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\parent\\parentController.js",
+    "size": 123,
+    "modifiedTime": 1644138509571,
+    "changeTime": 1644138509571,
+    "contentHash": "d8a5672c8d683061a205d5de385e7323ee7af254",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\testTab": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\testTab",
+    "isDirectory": true,
+    "modifiedTime": 1644138509592,
+    "changeTime": 1644138509592,
+    "contentHash": "0358b2fbea3fc1e1f00a49172071d4a42fbfe961",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\testTab\\testTab.cmp": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\testTab\\testTab.cmp",
+    "size": 166,
+    "modifiedTime": 1644138509592,
+    "changeTime": 1644138509592,
+    "contentHash": "14001f0b13575d2979a578c570997a5bb081efb7",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\testTab\\testTab.cmp-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\testTab\\testTab.cmp-meta.xml",
+    "size": 228,
+    "modifiedTime": 1644138509592,
+    "changeTime": 1644138509592,
+    "contentHash": "c0c99fc453841074e9256ec71f0c4cc0d9836cd2",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\testpage": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\testpage",
+    "isDirectory": true,
+    "modifiedTime": 1644138509563,
+    "changeTime": 1644138509563,
+    "contentHash": "9a517b3de0aa1fa50bb170888a55e5846730b4b7",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\testpage\\testpage.cmp": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\testpage\\testpage.cmp",
+    "size": 101,
+    "modifiedTime": 1644138509563,
+    "changeTime": 1644138509563,
+    "contentHash": "cdd0f27558425b621233a200fc3c2eb0e6022288",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\testpage\\testpage.cmp-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\aura\\testpage\\testpage.cmp-meta.xml",
+    "size": 228,
+    "modifiedTime": 1644138509563,
+    "changeTime": 1644138509563,
+    "contentHash": "c0c99fc453841074e9256ec71f0c4cc0d9836cd2",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes",
+    "isDirectory": true,
+    "modifiedTime": 1644138509634,
+    "changeTime": 1644138509634,
+    "contentHash": "76385bb217036cbe3fefd17db03bf3e2ec8f4dec",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\AccountQueryAction.cls": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\AccountQueryAction.cls",
+    "size": 491,
+    "modifiedTime": 1644138509618,
+    "changeTime": 1644138509618,
+    "contentHash": "511e9e7910ff731b068d2262d5fd350b1aacd62c",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\AccountQueryAction.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\AccountQueryAction.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1644138509618,
+    "changeTime": 1644138509618,
+    "contentHash": "e2cbc796ec14b132b3b44146e384f1ecc17b052b",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\FetchAccountandOpportunity.cls": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\FetchAccountandOpportunity.cls",
+    "size": 475,
+    "modifiedTime": 1644138509600,
+    "changeTime": 1644138509600,
+    "contentHash": "fd6045ea7a5d6cab2477e03b4dfb5566b86fc94e",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\FetchAccountandOpportunity.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\FetchAccountandOpportunity.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1644138509600,
+    "changeTime": 1644138509600,
+    "contentHash": "e2cbc796ec14b132b3b44146e384f1ecc17b052b",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\FindContacts.cls": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\FindContacts.cls",
+    "size": 283,
+    "modifiedTime": 1644138509608,
+    "changeTime": 1644138509608,
+    "contentHash": "2cf97ca2a0032420b7db3653c42c80a703a6b5f6",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\FindContacts.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\FindContacts.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1644138509608,
+    "changeTime": 1644138509608,
+    "contentHash": "e2cbc796ec14b132b3b44146e384f1ecc17b052b",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\Jsontest1.cls": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\Jsontest1.cls",
+    "size": 27,
+    "modifiedTime": 1644138509634,
+    "changeTime": 1644138509634,
+    "contentHash": "a83c538c5da1b1b19ab44e74249290471876bc4f",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\Jsontest1.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\Jsontest1.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1644138509634,
+    "changeTime": 1644138509634,
+    "contentHash": "e2cbc796ec14b132b3b44146e384f1ecc17b052b",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\OpportunityTriggerHandler.cls": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\OpportunityTriggerHandler.cls",
+    "size": 3133,
+    "modifiedTime": 1644138509626,
+    "changeTime": 1644138509626,
+    "contentHash": "428fd6a9ff4fd515c3974842a6a55eb0d99dada0",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\OpportunityTriggerHandler.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\OpportunityTriggerHandler.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1644138509626,
+    "changeTime": 1644138509626,
+    "contentHash": "e2cbc796ec14b132b3b44146e384f1ecc17b052b",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\QrResults.cls": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\QrResults.cls",
+    "size": 27,
+    "modifiedTime": 1644138509618,
+    "changeTime": 1644138509618,
+    "contentHash": "612c8c081bdaacad420816ff35e64f8b480ac3c3",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\QrResults.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\QrResults.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1644138509618,
+    "changeTime": 1644138509618,
+    "contentHash": "e2cbc796ec14b132b3b44146e384f1ecc17b052b",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\StudentTriggerHandler.cls": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\StudentTriggerHandler.cls",
+    "size": 1505,
+    "modifiedTime": 1644138846935,
+    "changeTime": 1644138846935,
+    "contentHash": "11cf33795f82675ab98a6b3a64f39ead56276084",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\StudentTriggerHandler.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\StudentTriggerHandler.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1644138509634,
+    "changeTime": 1644138509634,
+    "contentHash": "e2cbc796ec14b132b3b44146e384f1ecc17b052b",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\TriggerDispatcher.cls": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\TriggerDispatcher.cls",
+    "size": 1066,
+    "modifiedTime": 1644138509608,
+    "changeTime": 1644138509608,
+    "contentHash": "ace32bba2880f5cd8f74b97bf4bbeb258c891a25",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\TriggerDispatcher.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\TriggerDispatcher.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1644138509608,
+    "changeTime": 1644138509608,
+    "contentHash": "e2cbc796ec14b132b3b44146e384f1ecc17b052b",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\TriggerHandler.cls": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\TriggerHandler.cls",
+    "size": 600,
+    "modifiedTime": 1644138509626,
+    "changeTime": 1644138509626,
+    "contentHash": "560a92f48b0d085bb5bda0dde0e51d5950db962c",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\TriggerHandler.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\TriggerHandler.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1644138509626,
+    "changeTime": 1644138509626,
+    "contentHash": "e2cbc796ec14b132b3b44146e384f1ecc17b052b",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\testjson.cls": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\testjson.cls",
+    "size": 72,
+    "modifiedTime": 1644138509626,
+    "changeTime": 1644138509626,
+    "contentHash": "4a97db6c927d6ed0db68e2aca19eeb771928ec54",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\testjson.cls-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\classes\\testjson.cls-meta.xml",
+    "size": 174,
+    "modifiedTime": 1644138509626,
+    "changeTime": 1644138509626,
+    "contentHash": "e2cbc796ec14b132b3b44146e384f1ecc17b052b",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexClass"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\contentassets": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\contentassets",
+    "isDirectory": true,
+    "modifiedTime": 1644137645055,
+    "changeTime": 1644137645055,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\flexipages": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\flexipages",
+    "isDirectory": true,
+    "modifiedTime": 1644137645055,
+    "changeTime": 1644137645055,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\layouts": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\layouts",
+    "isDirectory": true,
+    "modifiedTime": 1644137645055,
+    "changeTime": 1644137645055,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\lwc": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\lwc",
+    "isDirectory": true,
+    "modifiedTime": 1644137672540,
+    "changeTime": 1644137672540,
+    "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\objects": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\objects",
+    "isDirectory": true,
+    "modifiedTime": 1644137645055,
+    "changeTime": 1644137645055,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\permissionsets": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\permissionsets",
+    "isDirectory": true,
+    "modifiedTime": 1644137645055,
+    "changeTime": 1644137645055,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\staticresources": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\staticresources",
+    "isDirectory": true,
+    "modifiedTime": 1644137645055,
+    "changeTime": 1644137645055,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\tabs": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\tabs",
+    "isDirectory": true,
+    "modifiedTime": 1644137645055,
+    "changeTime": 1644137645055,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers",
+    "isDirectory": true,
+    "modifiedTime": 1644138509650,
+    "changeTime": 1644138509650,
+    "contentHash": "b069395bb8e7c5ef8f876e65fa6b980b114289d5",
+    "state": "n",
+    "package": "force-app"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\CaseTrigger.trigger": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\CaseTrigger.trigger",
+    "size": 931,
+    "modifiedTime": 1644138509642,
+    "changeTime": 1644138509642,
+    "contentHash": "02f247ab803e4a58e16ff2afbf9b28109698a240",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\CaseTrigger.trigger-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\CaseTrigger.trigger-meta.xml",
+    "size": 178,
+    "modifiedTime": 1644138509642,
+    "changeTime": 1644138509642,
+    "contentHash": "3ae99371854d50f138d91a8deed4eb99c2fc7325",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\OpportunityTrigger.trigger": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\OpportunityTrigger.trigger",
+    "size": 361,
+    "modifiedTime": 1644138509650,
+    "changeTime": 1644138509650,
+    "contentHash": "255bfb671e670d4cb7cd3260df2d971e6523ea83",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\OpportunityTrigger.trigger-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\OpportunityTrigger.trigger-meta.xml",
+    "size": 178,
+    "modifiedTime": 1644138509650,
+    "changeTime": 1644138509650,
+    "contentHash": "3ae99371854d50f138d91a8deed4eb99c2fc7325",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\Studenttrigger.trigger": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\Studenttrigger.trigger",
+    "size": 222,
+    "modifiedTime": 1644138509642,
+    "changeTime": 1644138509642,
+    "contentHash": "a5846019f56e7edb86ccbd24d94a22760b564638",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\Studenttrigger.trigger-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\Studenttrigger.trigger-meta.xml",
+    "size": 178,
+    "modifiedTime": 1644138509642,
+    "changeTime": 1644138509642,
+    "contentHash": "3ae99371854d50f138d91a8deed4eb99c2fc7325",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\asasaa.trigger": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\asasaa.trigger",
+    "size": 52,
+    "modifiedTime": 1644138509650,
+    "changeTime": 1644138509650,
+    "contentHash": "fdadc9ae19b36118de60ec41385791d03933ba62",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\asasaa.trigger-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\asasaa.trigger-meta.xml",
+    "size": 178,
+    "modifiedTime": 1644138509650,
+    "changeTime": 1644138509650,
+    "contentHash": "3ae99371854d50f138d91a8deed4eb99c2fc7325",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\test.trigger": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\test.trigger",
+    "size": 160,
+    "modifiedTime": 1644138509650,
+    "changeTime": 1644138509650,
+    "contentHash": "0a00829763f5574a8b53d84454050952196744e7",
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\test.trigger-meta.xml": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc\\force-app\\main\\default\\triggers\\test.trigger-meta.xml",
+    "size": 178,
+    "modifiedTime": 1644138509650,
+    "changeTime": 1644138509650,
+    "contentHash": "3ae99371854d50f138d91a8deed4eb99c2fc7325",
+    "isMetadataFile": true,
+    "state": "n",
+    "package": "force-app",
+    "metadataType": "ApexTrigger"
+  },
+  "c:\\Users\\Admin\\manfestlwc": {
+    "sourcePath": "c:\\Users\\Admin\\manfestlwc",
+    "isDirectory": true,
+    "modifiedTime": 1644137670413,
+    "changeTime": 1644137670413,
+    "contentHash": "2dc7416a818b862cb2ec5ff14251660b4cf1039d",
+    "state": "n",
+    "isWorkspace": true
+  }
+}
